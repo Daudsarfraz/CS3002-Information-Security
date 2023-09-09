@@ -62,10 +62,6 @@ This repository is organized into folders and subfolders, each dedicated to spec
 <b>  Projects: </b> Collaborative or individual projects related to Information Security.<br>
 Feel free to browse through the folders and access the materials that interest you the most. If you're a student, you'll likely find assignments and projects relevant to your course.
 
-### Contributing
-We welcome contributions from the community to make this repository even more valuable. If you have resources, assignments, or projects related to Information Security that you'd like to share, please follow our contribution guidelines.
-
-Your contributions can help other learners and enthusiasts gain a deeper understanding of Information Security.
 
 ### License
 This repository is licensed under the MIT License. Please review the license terms before using or contributing to this project.
