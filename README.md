@@ -49,19 +49,17 @@ To set up this repository on your local machine, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/CS3002-Information-Security.git
-   Navigate to the repository directory:
-
-   ```bash
    cd CS3002-Information-Security
 
 ### Course Content
 This repository is organized into folders and subfolders, each dedicated to specific topics and assignments. Here's an overview of the typical content you can expect:
 
-#### Lectures: Lecture notes, presentations, and related materials.
-#### Assignments: Coding exercises, projects, and practical assignments.
-#### Resources: Useful articles, books, and links to external resources.
-#### Tutorials: Step-by-step guides on various Information Security topics.
-#### Projects: Collaborative or individual projects related to Information Security.
+ 
+ <b> Lectures: </b> Lecture notes, presentations, and related materials. <br>
+<b>  Assignments: </b>  Coding exercises, projects, and practical assignments.<br>
+<b>  Resources: </b> Useful articles, books, and links to external resources.<br>
+<b>  Tutorials: </b> Step-by-step guides on various Information Security topics.<br>
+<b>  Projects: </b> Collaborative or individual projects related to Information Security.<br>
 Feel free to browse through the folders and access the materials that interest you the most. If you're a student, you'll likely find assignments and projects relevant to your course.
 
 ### Contributing
