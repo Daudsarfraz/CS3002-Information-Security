@@ -7,7 +7,7 @@ Welcome to the CS3002 Information Security repository! This repository serves as
 - [About](#about)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+  - [Installation](#installation) 
 - [Course Content](#course-content)
 - [License](#license)
 
